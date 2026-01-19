@@ -1,6 +1,8 @@
 **Core-Ding**  
 (January 20, 2026 – Version 1)
 
+A minimal framework for aligned AI vibecoding and experience mapping
+
 AI-Ding is a 14-marker framework that maps human experience and keeps AI reasoning aligned with reality — without force or waste.  
 It follows Cook Ding: the blade glides along natural joints, revealing structure effortlessly while preserving sharpness.
 
@@ -113,6 +115,10 @@ It hands capacity back to you — the code is minimal, maintainable, and leaves 
 Result: faster prototypes, less technical debt, lower token burn, and outputs that feel more aligned with your actual intent.
 
 Branches coming soon: Recur-Ding (bounded refinement), Eval-Ding (stability scoring), Hexa-Ding (quick situational diagnostic).
+
+The Unlicense — http://unlicense.org/
+This work is dedicated to the public domain.
+
 Adam Fulford
 a.w.fulford [@] gmail.com
 Tokyo  
