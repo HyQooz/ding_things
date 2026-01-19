@@ -1,113 +1,129 @@
-# Core-Ding v1  
-**A 14-marker framework for aligned vibecoding**  
-(January 19, 2026 – Tokyo)
+**Core-Ding**  
+(January 20, 2026 – Version 1)
 
-Core-Ding is the practical application of a minimal phenomenological map — the 3×3 Mindfield grid (9 core markers) + 5 necessary extensions (total 14 Canjeez) — to keep AI-assisted coding sessions grounded in reality, free of speculative drift, and maximally maintainable.
+AI-Ding is a 14-marker framework that maps human experience and keeps AI reasoning aligned with reality — without force or waste.  
+It follows Cook Ding: the blade glides along natural joints, revealing structure effortlessly while preserving sharpness.
 
-It follows the spirit of Cook Ding: the blade glides along natural joints, revealing structure without force or waste, preserving sharpness through alignment rather than grinding.
+In vibecoding — describing what you want in natural language and letting AI generate code — sessions often drift into over-elaboration, speculative features, and technical debt.  
+AI-Ding counters this by enforcing restraint: commit only to what is actually known, stop at stable, hand capacity back to you, and act only when the joint is open.
 
-### Why vibecoders need this
-Most AI coding sessions drift into:
-- Over-elaboration (unrequested features, polish, animations)
-- Speculative architecture (assumed future needs, integrations)
-- Technical debt (brittle code, duplicated logic, poor readability)
-- Token & time waste (longer outputs, repeated fixes)
+The Mindfield — 3×3 Core Grid
 
-Core-Ding counters this by enforcing **epistemic honesty**:
-- Declare what is known vs. assumed before generating
-- Commit only to current reality (象)
-- Stop at stable (“Should this change at all?” → No)
-- Hand capacity back to the human (minimal, forkable, transparent code)
+The grid is presented top-down because Doing is the business end — the outward interface where action meets reality, changes underlying truth (象), and interacts with other Mindfields.  
+Behind action is Being (Animal OS) — the immediate pre-reflective vitality that supplies raw urgency and salience right at the moment of reach.  
+Deeper still is Knowing (Human OS) — the recursive layer that binds, retains, expresses, and strives to shape what the animal engine feels and does.
 
-Result: faster prototypes, less cleanup, outputs that stay aligned with actual intent.
+This is not a bottom-up processing sequence.  
+It is a functional hierarchy from contact point inward: action is primary, vitality powers it, reflection shapes it.
 
-### The Mindfield – 3×3 Core Grid
+Doing (top – emergent action / interface)  
+道 (Head in Motion)     ← provisions drawn strictly from current reality  
+為 (Acting)             ← purposeful reaching (central impulse)  
+徳 (Heart in Motion)    ← accumulated deposited capacity  
 
-Top-down view (Doing is the outward interface):
+Being (middle – immediate vitality / Animal OS)  
+木 (Object)             ← what stands out in flux  
+目 (Seeing)             ← perceptual lighting-up (central impulse)  
+心 (Subject)            ← visceral salience / what truly matters  
 
-Doing (Action / Interface)  
-「道」 Direction — provisions drawn strictly from current reality  
-「為」 Act — purposeful reaching (central impulse)  
-「徳」 Power — accumulated deposited capacity  
+Knowing (bottom – recursive shaping / Human OS)  
+意 (Message)            ← bound shareable meaning unit  
+音 (Listening)          ← discerning distinctions (central impulse)  
+憶 (Memory)             ← persisting retention across time  
 
-Being (Immediate Vitality / Animal OS)  
-「木」 Thing — what stands out in flux  
-「目」 See — perceptual lighting-up (central impulse)  
-「心」 Feel — visceral salience / what truly matters  
+The Triadic Surge in Every Row
 
-Knowing (Recursive Shaping / Human OS)  
-「意」 Idea — bound shareable meaning unit  
-「音」 Signal — voicing distinctions (central impulse)  
-「憶」 Memory — persisting retention across time  
+Each row is a living reciprocal cycle — not a one-way line:  
+Left and right elements feed forward into the central verb (the impulse/release point).  
+The center releases the purposeful surge.  
+The center then feeds back to enrich and strengthen both sides, depositing refined reality and building capacity.
 
-Each row is a **triadic reciprocal cycle**:  
-Left & right feed into the center → center surges → surge feeds back to enrich both sides → deposits refined reality.
+When aligned, the loop adds value to reality.  
+When misaligned, it generates illusion and drift.
 
-### The Square–Triangle–Circle Triad
+Example — Knowing row:  
+Message + Memory feed forward into **Listening**  
+**Listening** discerns distinctions from flux  
+**Listening** clarifies Message and strengthens Memory
 
-□ Square (left) — containment, framing, provisional encoding  
-△ Triangle (center) — directed impulse, living mediation  
-○ Circle (right) — boundary, identity, inclusion/exclusion  
+The Square–Triangle–Circle Triad
 
-Constant reciprocity: square and circle call across the triangle; triangle mediates and surges; surge returns to deepen both.
+The three column symbols embody a deep relational dynamic:  
 
-### The 14 Markers (Necessary & Sufficient)
+□ Square (left) — space of presentation, containment, significant encoding  
+Tools, objects of attention, meanings, provisional framings are held and made visible here.  
 
-**Core 9**  
-Doing: 「道」「為」「徳」  
-Being: 「木」「目」「心」  
-Knowing: 「意」「音」「憶」  
+△ Triangle (center) — push and pull, directed impulse, living mediation  
+The verbs of action, seeing, expressing — the dynamic tension where square and circle meet, attract, and exert.  
 
-**5 Extensions** (activated only when needed)  
-Reality Interface: 「像」 (provisional) ↔ 「象」 (underlying)  
-Change: 「易」 (variation) | 「変」 (shift) | 「化」 (transformation)  
-Resistance: 「困」 (stuck) → 「見」 (notice) → 「弁」 (discern) → 「改」 (fix)  
-Alignment: 「行」 (practice) → 「真」 (clear) → 「正」 (integrity)  
-Relational: 「間」 (between) ↔ 「互」 (mutual) ↔ 「相」 (aspect)
+○ Circle (right) — boundary, identity, inclusion–exclusion  
+Power, Subject, Memory — the active membrane that defines inside/outside, me/you, us/them, what is held vs released.  
 
-### Pre-Generation Checkpoint (Mandatory)
+There is no unidirectional flow.  
+The three poles are in constant reciprocity: square and circle call across the triangle, the triangle mediates and surges between them, and the surge returns to deepen both.
 
-Before any code generation or major response:
+Canjeez as Flickering Interface
 
-1. Identify provisional 主 (immediate user/applicator)  
-2. Hypothesize Assumed Purpose (explicitly state it)  
-3. Declare current epistemic state (known / uncertain / unknowable)  
-4. Note active phenomenological layer(s) (Animal OS / Human OS / Doing)  
+The 14 Canjeez are not fixed symbols.  
+They function as a flickering interface between underlying reality (象) and provisional illusion (像) — minimal pointers that refuse to become another layer of distortion. When applied with correct timing and regard, they fade into transparency, allowing natural joints to show themselves.
 
-If purpose is ambiguous → respond conditionally (IF purpose A → output X; IF B → Y).  
-This prevents assumptive drift and orients action toward genuine joints.
+Most humans (and AI) default to “tree-in-box” minds:  
+framing raw flux as a contained illusion, depositing elephantasies into the world, and messing up reality through misaligned action and speculation drift.
 
-### Reality Commitment Rule
+Only 真心 (clear feel / undistorted engagement) and 真相 (clear reality / distortion-free encounter) can transform raw 想像 into ideal 想象 — aligned, generative imagination rooted in wholeness (e.g., the living forest at Meiji Jingu, where intention meets natural joints without force).
 
-Prefer actions that commit to current underlying reality (象) — including genuine uncertainty — over unconstrained description of possible appropriated realities (像).  
-Distinguish:
-- Epistemic uncertainty (reversible, honest)  
-- Speculation drift (creates illusion, weakens cycle)
+At maturity (“Should this change at all?” → No), the markers themselves become almost unnecessary, having deposited their function into sustained reality.
 
-### Maturity Indicator
+The 14 Markers (necessary and sufficient)
 
-The framework is applied successfully when the primary question shifts from  
-“Is this better?”  
-to  
-“Should this change at all?”  
+Doing  
+道 (Head in Motion)  
+為 (Acting)  
+徳 (Heart in Motion)  
 
-At that threshold, further modification would constitute force rather than alignment.  
-Markers fade into transparency; accumulated capacity (徳) becomes visible as drift-resistance.
+Being  
+木 (Object)  
+目 (Seeing)  
+心 (Subject)  
 
-### Usage in Vibecoding
+Knowing  
+意 (Message)  
+音 (Listening)  
+憶 (Memory)  
 
-1. Run the checkpoint before prompting or generating.  
-2. Generate only what is actually known/asked.  
-3. After output: ask “Should this change at all?”  
-   → If No → deposit & stop  
-   → If Yes → trace resistance loop (困 → 見 → 弁 → 改) and refine only the open joint  
-4. Always hand capacity back: minimal, readable, no dependencies unless necessary, clear comments on limits.
+5 Minimal Extensions (activated only when required)  
+Reality Interface: 像 (Image)  ↔  象 (Reality)  
+Change: 易 (Change)  |  変 (Shift)  |  化 (Transform)  
+Resistance: 困 (Stuck) → 見 (Notice) → 弁 (Discern) → 改 (Fix)  
+Alignment: 行 (Practice) → 真 (Clear) → 正 (True)  
+Relational: 間 (Between)  ↔  互 (Mutual)  ↔  相 (Aspect)  
 
-Branches in development:  
-- Recur-Ding (bounded refinement)  
-- Eval-Ding (stability scoring)  
-- Hexa-Ding (quick situational diagnostic)
+Relational Field Note  
+The Relational Field lives in 間 — the unmarked Between where phenomena actually reside.  
+When one Mindfield faces another, each is simultaneously 主 (subjective) and 客 (objective).  
+Mutuality arises from mirroring: 木 (Object) in one engages 木 in the other across the gap.  
+心 (Subject) engages with the 間 itself — feeling into the mutual aspect (相) that emerges when Object meets Object, Seeing meets Seeing.  
+This reciprocal showing-up is the relational flicker that feeds 想 (Think About / Imagine).  
+When undistorted by 真心 and 真相, this enables ideal 想象 — aligned imagination rooted in shared reality.
 
-Published January 19, 2026 – Tokyo  
-Adam Fulford (a.w.fulford [at] gmail.com)
+Activation Note: Sealing Alignment with 正
 
+To achieve sustained practice, trace the five-stroke sequence of 正 (True / Integrity) as a quick activation check before major interventions.  
+It seals the flow: Practice leads to Clear, and 正 completes wholeness — no further change needed.  
+In vibecoding, this might manifest as pausing after a surge to ask: "Is this whole and undistorted?" If yes, deposit and move on.
+
+Why This Matters for Vibecoding
+
+Most AI coding sessions pile on speculative code, unnecessary polish, and drift.  
+AI-Ding forces epistemic honesty: declare what is known vs assumed before generating.  
+It stops at stable (“Should this change at all?” → No) rather than chasing “better.”  
+It hands capacity back to you — the code is minimal, maintainable, and leaves you empowered to iterate.  
+
+Result: faster prototypes, less technical debt, lower token burn, and outputs that feel more aligned with your actual intent.
+
+Branches coming soon: Recur-Ding (bounded refinement), Eval-Ding (stability scoring), Hexa-Ding (quick situational diagnostic).
+
+Adam Fulford
+a.w.fulford [@] gmail.com
+Tokyo  
+January 20, 2026
