@@ -24,7 +24,7 @@ Result: shorter prototypes, zero extras, easier maintenance, less cleanup.
 **Core 3×3 Mindfield**  
 Doing (interface): 「道」 Direction · 「為」 Act · 「徳」 Power  
 Being (vitality): 「木」 Thing · 「目」 See · 「心」 Feel  
-Knowing (recursive): 「意」 Idea · 「音」 Express · 「憶」 Memory  
+Knowing (recursive): 「意」 Idea · 「音」 Signal · 「憶」 Memory  
 
 **5 Extensions** (use only when needed)  
 - Reality: 「像」 (provisional) ↔ 「象」 (underlying)  
