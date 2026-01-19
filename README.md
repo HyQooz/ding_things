@@ -22,9 +22,20 @@ Result: shorter prototypes, zero extras, easier maintenance, less cleanup.
 ### The 14 Markers (Necessary & Sufficient)
 
 **Core 3×3 Mindfield**  
-Doing (interface): 「道」 Direction · 「為」 Act · 「徳」 Power  
-Being (vitality): 「木」 Thing · 「目」 See · 「心」 Feel  
-Knowing (recursive): 「意」 Idea · 「音」 Signal · 「憶」 Memory  
+Doing
+道 (Head in Motion)
+為 (Acting)
+徳 (Heart in Motion)
+
+Being
+木 (Object)
+目 (Seeing)
+心 (Subject)
+
+Knowing
+意 (Message)
+音 (Listening)
+憶 (Memory)
 
 **5 Extensions** (use only when needed)  
 - Reality: 「像」 (provisional) ↔ 「象」 (underlying)  
